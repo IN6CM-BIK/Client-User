@@ -38,7 +38,7 @@ export default function LoginScreen({ navigation }) {
             <Landmark size={40} color={COLORS.white} />
           </View>
           <Text style={styles.brand}>BIK BANCO</Text>
-          <Text style={styles.tagline}>Banca Digital Unificada</Text>
+          <Text style={styles.tagline}>Banco Informático Kinal</Text>
         </View>
 
         <View style={styles.card}>
